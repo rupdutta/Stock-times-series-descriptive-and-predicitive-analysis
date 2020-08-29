@@ -391,8 +391,8 @@ def analytics_menu():
 if __name__ == '__main__':
     """
     ==================================================================
-    Assignment Type:  Stock Analytics Project
-    Assignment Name: Stock Data Descriptive and Predictive Analytics
+    Project Name:  Stock Price Analytics 
+    Author: Rupam Dutta
     ==================================================================
     
     """
